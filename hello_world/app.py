@@ -8,7 +8,7 @@ from slack_bolt.workflows.step import WorkflowStep, Configure, Update, Complete,
 
 app = App(
     # TODO: move secrets to env vars
-    token='xoxb-2381002964196-2398730251988-s2b23yJJUURWLVczQpkzJEbn',
+    token='xoxb-2381002964196-2398730251988-0sLYU0sz6JmW186yUD4XPSfL',
     signing_secret='2350a96485c3b20632211c5b04dff76f',
     process_before_response=True
 )
